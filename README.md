@@ -1,5 +1,12 @@
 # Space_Mission_Project
 H&amp;Ms Project 1
+--------------------------------
+Group Members
+--------------------------------
+- Haley Heer
+- Michael Aparisio
+- Michelle R. Smith
+- Laura (Missha) Vara
 
 Note: It is important that if you are going to use this code, the csv files
 are placed in a directory that you can pull them from, idealy a 'Resources' folder
