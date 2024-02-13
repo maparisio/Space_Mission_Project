@@ -1,12 +1,8 @@
 # Space_Mission_Project
 H&amp;Ms Project 1
 --------------------------------
-Group Members
+- By M. Aparisio, H. Heer, M. Smith & L. Vara
 --------------------------------
-- Haley Heer
-- Michael Aparisio
-- Michelle R. Smith
-- Laura (Missha) Vara
 
 Note: It is important that if you are going to use this code, the csv files
 are placed in a directory that you can pull them from, idealy a 'Resources' folder
@@ -25,7 +21,7 @@ INDEX
 ---------------------------------
 Analysis & Slide Presentation
 ---------------------------------
-- (Copy paste or link to the Analysis)
+- Space Missions Over Time Analysis Report: https://docs.google.com/document/d/1LXfqi8nnqv8FLbiWnFYCIZ_cI24FpyNkjXM8xtL5IYU/edit?usp=sharing
 - Presentation: https://docs.google.com/presentation/d/1klXu05u3-8OfmkQ52thHnJL7lsWQgRZOKclI1L5tZzM/edit?usp=sharing 
 
 ---------------------------------
