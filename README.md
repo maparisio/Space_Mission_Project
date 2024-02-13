@@ -119,6 +119,7 @@ https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Mission_Od
 - Space Program of Kazakhstan, Retrieved from https://en.wikipedia.org/wiki/Category:Space_program_of_Kazakhstan 
 https://americasbesthistory.com/abhtimeline1980.html 
 - Blue Origin information, Retrieved from https://www.blueorigin.com/about-blue & https://en.wikipedia.org/wiki/Blue_Origin
+- Nasa's budget information, Retrieved from https://en.wikipedia.org/wiki/Budget_of_NASA
 
 Image Resources
 - https://stock.adobe.com/ 
@@ -127,4 +128,10 @@ Image Resources
 - https://pixabay.com/photos/galaxy-star-infinity-cosmos-dark-3608029/ 
 - https://pixabay.com/photos/milky-way-human-lake-dreams-4500469/ 
 - https://www.loc.gov/resource/hhh.tx1107.photos/?sp=1 
-- https://pixabay.com/photos/astronaut-moon-space-nasa-planet-4106766/ 
+- https://pixabay.com/photos/astronaut-moon-space-nasa-planet-4106766/
+- https://space.skyrocket.de/doc_lau_det/kosmos-3m.htm 
+- https://www.flickr.com/photos/nasakennedy/49966772048/in/album-72157647244171004/ 
+- https://commons.wikimedia.org/wiki/User:Shujianyang 
+- https://en.wikipedia.org/wiki/Space_Shuttle_Discovery 
+
+
