@@ -120,6 +120,7 @@ https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Mission_Od
 https://americasbesthistory.com/abhtimeline1980.html 
 - Blue Origin information, Retrieved from https://www.blueorigin.com/about-blue & https://en.wikipedia.org/wiki/Blue_Origin
 - Nasa's budget information, Retrieved from https://en.wikipedia.org/wiki/Budget_of_NASA
+- Encyclopedia of United States National Security  SAGE Publications. p. 669. Retrieved from https://us.sagepub.com/en-us/nam/encyclopedia-of-united-states-national-security/book226162
 
 Image Resources
 - https://stock.adobe.com/ 
